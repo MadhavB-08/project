@@ -72,4 +72,4 @@ if st.button("Predict Crop"):
 # Footer
 # -------------------------------
 st.markdown("---")
-st.caption("Developed by Jayendrajeet Chauhan | Crop Recommendation using AI 🌾")
+st.caption("Developed by Madhav Bhutada | Crop Recommendation using AI 🌾")
